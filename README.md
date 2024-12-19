@@ -50,7 +50,7 @@ The project is organized as follows:
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/abhishekgurjar-in/qr_code_generator.git
+git clone https://github.com/abhishekboadgurjar/qr_code_generator.git
 cd qr-code-generator
 npm install
 npm start
@@ -75,5 +75,5 @@ The QR Code Generator project is a practical example of how to integrate APIs an
 
 ### Author
 
-**Abhishek Gurjar** is a web developer passionate about creating interactive and useful web applications. You can follow his work on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a web developer passionate about creating interactive and useful web applications. You can follow his work on [GitHub](https://github.com/abhishekboadgurjar).
 
